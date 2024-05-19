@@ -1,7 +1,7 @@
 # OneClick Contact
 
 ## Giới thiệu
-OneClick Contact là một tiện ích mở rộng giúp bạn nhanh chóng lưu thông tin liên lạc từ các trang web. Với OneClick Contact, bạn có thể đồng bộ hóa thông tin liên lạc của mình một cách nhanh chóng và dễ dàng trên mọi thiết bị.
+OneClick Contact là một tiện ích giúp bạn nhanh chóng lưu thông tin liên lạc từ các trang web. Với OneClick Contact, bạn có thể đồng bộ hóa thông tin liên lạc của mình một cách nhanh chóng và dễ dàng trên mọi thiết bị.
 
 ## Tính năng
 - **Lưu nhanh**: Thêm thông tin liên lạc chỉ với một cú nhấp chuột.
