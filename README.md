@@ -25,4 +25,4 @@ OneClick Contact được phát hành dưới giấy phép MIT. Chi tiết xem t
 Nếu bạn có bất kỳ thắc mắc hoặc đề xuất nào, đừng ngần ngại liên hệ với chúng tôi qua [Issues](https://github.com/yourusername/oneclick-contact/issues) trên GitHub.
 
 ---
-Better Code, Better Life
+Code ngon, sống nhàn
